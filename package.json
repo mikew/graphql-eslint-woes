@@ -1,0 +1,20 @@
+{
+  "name": "graphql-eslint-woes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@graphql-eslint/eslint-plugin": "^1.1.0",
+    "@typescript-eslint/parser": "^4.28.1",
+    "eslint": "^7.29.0",
+    "graphql": "^15.5.1",
+    "graphql-tag": "^2.12.5",
+    "typescript": "^3.9.10"
+  }
+}
